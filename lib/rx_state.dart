@@ -13,4 +13,5 @@ export 'package:get_it/get_it.dart';
 
 export 'rx.dart';
 export 'rxbuilder.dart';
+export 'rx_lifecycle.dart';
 export 'rxview.dart';
